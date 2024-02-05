@@ -8,4 +8,3 @@ let vysledekHodu = Math.floor(nahodneCislo * 6) + 1
 let vysledek = vysledekHodu
 
 console.log("Hod kostkou: " + vysledek)
-document.body.innerHTML += "Hod kostkou: " + vysledek
